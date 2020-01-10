@@ -1,0 +1,13 @@
+body{
+    text-align: center; 
+}
+.middleDiv, .row{
+    height: 200px;
+    padding-top: 5%;
+}
+button{
+  text-height: bold;
+  text-transform: uppercase;
+  height: 100%;
+  background-image: url(Bora-Bora.jpg);
+}
