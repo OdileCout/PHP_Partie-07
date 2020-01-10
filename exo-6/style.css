@@ -1,0 +1,37 @@
+body{
+  padding-top: 15%; 
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+  background-color: #F2F3F3;
+  color: white;
+}
+ul{
+    list-style: none;
+}
+fieldset{
+    background-color: #008C72;
+}
+fieldset:hover{
+    background-color: #F2F3F3;
+    color: black;
+    
+}
+.validate{
+  margin-top: 20px;
+}
+.answer{
+  margin-top: 20px;
+  background-color: #008C72;
+  color: white;
+  height: 50px;
+  padding-top: 1%;
+  font-weight: bold;
+}
+.answer:hover{
+    background-color: #F2F3F3;
+    color: black; 
+}
+form{
+    color: white;
+}
